@@ -1,4 +1,4 @@
-# Seo Refactor Project
+# SEO Refactor Project
 
 ## Table of Contents
 - [Description](#Description)
