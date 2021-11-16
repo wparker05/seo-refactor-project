@@ -20,4 +20,4 @@
 ## Visuals
 
 
-![Seo Picture](./assets/images/search-engine-optimization.jpg)
+![Seo Picture](./assets/images/horiseon.png)
