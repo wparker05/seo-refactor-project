@@ -9,7 +9,7 @@
 
 ## Description
 
-    
+   This is a website about search engine optimization (SEO). It defines what SEO is and give examples of how it can benefit a website. The goal of this project was to update the code for the website so that its information can be accessible to all users. This was accomplished by adding semantic text throughout the html document to clearly define the content.
 
 
 ## Link
